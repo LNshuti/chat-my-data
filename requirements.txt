@@ -1,0 +1,3 @@
+llama-index
+azure-core
+pdf2image
