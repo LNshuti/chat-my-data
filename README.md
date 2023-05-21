@@ -44,6 +44,12 @@ git clone https://github.com/LNshuti/chat-my-data.git
 # Move into the application folder 
 cd chat-my-data 
 
+# Create conda environment 
+conda env create --file=environment.yaml
+
+# ADD OPENAI API KEY to your local env
+conda env config vars set OPENAI_API_KEY=YOUR_API_KEY
+
 # Install and run 
 npm install
 npm run dev
