@@ -4,7 +4,6 @@ Create a “chat with docs” **webapp** that can be trained on the below and ac
 * Website data (community forums, KB articles, user manuals, etc)
 * PDF documents (user manuals, etc)
 * Text files
-
 * A user should be able to log on to a web app, search for specific information, and be provided with clear and helpful information based on the bot's knowledge with sources cited.
 * The chat about the docs should continue while maintaining the previous context of the chat.
 * Bot results can return generated code, and code should be formatted appropriately in the chat results.
