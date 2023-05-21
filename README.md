@@ -61,7 +61,7 @@ Default configuration is in `.env`. Put custom config and secrets in `.env.local
 
 Check out [.env](./.env) to see what needs to be set.
 
-Basically you need to create a `.env.local` with the following contents:
+In summary, create a `.env.local` with the following contents:
 
 ```
 MONGODB_URL=<url to mongo, for example a free MongoDB Atlas sandbox instance>
