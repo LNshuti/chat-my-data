@@ -5,17 +5,13 @@ Create a “chat with docs” **webapp** that can be trained on the below and ac
 * PDF documents (user manuals, etc)
 * Text files
 
-A user should be able to log on to a web app, search for specific information, and be provided with clear and helpful information based on the bot's knowledge with sources cited. The chat about the docs should continue while maintaining the previous context of the chat.
-
-Bot results can return generated code, and code should be formatted appropriately in the chat results.
-
-The backend and frontend functions should be separated so we can chat with the bot through an API or connect to Slack in the future.
-
-The website should have a gated admin section with Google Auth to allow me to quickly add new websites and PDFs to the LLM training data.
-
-I should be able to upload or copy-paste the URLs in bulk in the admin section.
-
-I should be able to easily change the model from GPT 3.5 to 4 and edit the system prompt and the main prompt template in the admin section.
+* A user should be able to log on to a web app, search for specific information, and be provided with clear and helpful information based on the bot's knowledge with sources cited.
+* The chat about the docs should continue while maintaining the previous context of the chat.
+* Bot results can return generated code, and code should be formatted appropriately in the chat results.
+* The backend and frontend functions should be separated so we can chat with the bot through an API or connect to Slack in the future.
+* The website should have a gated admin section with Google Auth to allow me to quickly add new websites and PDFs to the LLM training data.
+* I should be able to upload or copy-paste the URLs in bulk in the admin section.
+* I should be able to easily change the model from GPT 3.5 to 4 and edit the system prompt and the main prompt template in the admin section.
 
 **Acceptance Criteria** 
 To win this bounty please let your work speak for itself.
