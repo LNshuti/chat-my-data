@@ -1,15 +1,12 @@
 name: chatty-app
 channels:
   - conda-forge
-  - nvidia
   - pytorch
 dependencies:
   - python=3.10
   - pytorch
   - torchvision
   - torchaudio 
-  - pytorch-cuda=11.6
-  - cuda
   - pip
   - pip:
     - deepspeed
