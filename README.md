@@ -50,8 +50,7 @@ conda env create --file=environment.yaml
 conda env config vars set OPENAI_API_KEY=YOUR_API_KEY
 
 # Install and run 
-npm install
-npm run dev
+streamlit run chat_my_data.py
 ```
 
 ## Environment
