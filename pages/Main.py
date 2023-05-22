@@ -1,7 +1,7 @@
 import streamlit as st
 
 # App Logo and Title
-st.image("Logo/logo.png", width=200)  # Replace "logo.png" with the path to your app's logo
+st.image("Logo/logo_transparent.png", width=200)  # Replace "logo.png" with the path to your app's logo
 st.title("Chat with Docs")
 
 # Search Bar
