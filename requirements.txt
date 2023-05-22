@@ -1,3 +1,4 @@
 llama-index
 azure-core
 pdf2image
+pypdf2
