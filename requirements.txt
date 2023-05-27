@@ -3,3 +3,6 @@ azure-core
 pdf2image
 pypdf2
 streamlit
+pinecone-client 
+pinecone-text
+streamlit-aggrid
